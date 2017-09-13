@@ -5,5 +5,7 @@ for human player is 'a', 'w', 's', 'd' keys.
 The graphics is made with Processing library.
 
 
-Training is done with this: https://github.com/HaroldWrenFinch/PingPongEncogTrainer
+Training is done with this: 
+
+https://github.com/HaroldWrenFinch/PingPongEncogTrainer
 
